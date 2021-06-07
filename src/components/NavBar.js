@@ -1,7 +1,11 @@
 function NavBar() {
     return (
         <div>
-            This is my navbar
+            <button>Home</button>
+            <button>About</button>
+            <button>Resume</button>
+            <button>Portfolio</button>
+            <button>Connect</button>
         </div>
     )
 }
