@@ -28,6 +28,26 @@ export default function App() {
           <Link to="/connect">Connect</Link>
         </button>
       </nav>
+
+      <Switch>
+        <Route exact path="/">
+            <Home />
+        </Route>
+        <Route path="/about">
+            <About />
+        </Route>
+        <Route path="/resume">
+          <Resume />
+        </Route>
+        <Route path="/portfolio">
+          <Portfolio />
+        </Route>
+        <Route path="/connect">
+          <Connect />
+        </Route>
+      </Switch>
     </Router>
+
+    
   );
 }
