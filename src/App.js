@@ -5,8 +5,12 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import NavBar from './components/NavBar'
-import MainContainer from './components/MainContainer'
+import About from './components/About'
+import Connect from './components/Connect'
+import Homepage from './components/Homepage'
+import Portfolio from './components/Portfolio'
+import Resume from './components/Resume'
+
 
 export default function App() {
   return (
@@ -31,7 +35,7 @@ export default function App() {
 
       <Switch>
         <Route exact path="/">
-            <Home />
+            <Homepage />
         </Route>
         <Route path="/about">
             <About />
@@ -46,6 +50,7 @@ export default function App() {
           <Connect />
         </Route>
       </Switch>
+
     </Router>
 
     
