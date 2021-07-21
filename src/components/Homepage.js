@@ -1,9 +1,8 @@
 export default function Homepage() {
     return (
-        <div>
-            <h1>Blaire Baker</h1>
+        <main>
             <h2>Full Stack Software Engineer</h2>
-        </div>
+        </main>
       
   
       

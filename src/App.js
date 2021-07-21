@@ -15,6 +15,7 @@ import Resume from './components/Resume'
 export default function App() {
   return (
     <Router>
+      <h1>Blaire Baker</h1>
       <nav>
         <button>
           <Link to="/">Home</Link>

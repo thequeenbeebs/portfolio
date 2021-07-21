@@ -1,6 +1,6 @@
 export default function About() {
     return (
-        <div>
+        <main>
             <h1>About Me</h1>
             <p>Full-stack software engineer with Nancy Drew-like debugging skills in Ruby on Rails and JavaScript.</p>
 
@@ -16,7 +16,7 @@ export default function About() {
             that align with my values.</p>
 
             <p>On the weekends I love getting outside in nature and baking delicious treats.</p>
-        </div>
+        </main>
       
   
       
