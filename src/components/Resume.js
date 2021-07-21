@@ -1,6 +1,6 @@
 export default function Resume() {
     return (
-      <h1>This is my resume page</h1>
+      <h1>Resume</h1>
   
       
     );

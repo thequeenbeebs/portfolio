@@ -1,6 +1,10 @@
 export default function Homepage() {
     return (
-      <h1>This is my homepage</h1>
+        <div>
+            <h1>Blaire Baker</h1>
+            <h2>Full Stack Software Engineer</h2>
+        </div>
+      
   
       
     );
