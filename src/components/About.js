@@ -1,8 +1,8 @@
 export default function About() {
     return (
         <main>
-            <h1>About Me</h1>
-            <img src="https://static.spacecrafted.com/f645f85f4cb4488dbc39c782de70b482/i/ccf3a9d3e5b94a1c8d12e4e963950822/1/4SoifmQp45JMgBnHgk4ap/16265237_10208236778307042_6085877578660230051_n.jpg" alt="picture of blaire"></img>
+            <h2>About Me</h2>
+            <img src="https://static.spacecrafted.com/f645f85f4cb4488dbc39c782de70b482/i/ccf3a9d3e5b94a1c8d12e4e963950822/1/4SoifmQp45JMgBnHgk4ap/16265237_10208236778307042_6085877578660230051_n.jpg" alt="blaire baker"></img>
             <p>Full-stack software engineer with Nancy Drew-like debugging skills in Ruby on Rails and JavaScript.</p>
 
             <p>After working as a professional actor for 10 years, when the COVID-19 pandemic put my industry at a standstill, 
