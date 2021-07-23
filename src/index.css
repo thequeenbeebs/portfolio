@@ -7,6 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #c8553d;
   color: white;
+  font-family: 'Montserrat', sans-serif;
 }
 
 code {
@@ -31,11 +32,14 @@ button a {
 
 p, a { 
   font-size: 16px;
-  font-family: 'Montserrat', sans-serif;
 }
 
 img {
   width: 500px;
   border: 10px solid #f28f3b;;
   border-radius: 50%;
+}
+
+.orange-background {
+  background-color:#f28f3b;
 }
