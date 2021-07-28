@@ -1,7 +1,7 @@
 export default function Resume() {
     return (
         <main>
-            <h2 class="orange-background">Resume</h2>
+            <h2 className="orange-background">Resume</h2>
 
             {/* Add way to download PDF */}
 

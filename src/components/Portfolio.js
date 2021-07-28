@@ -1,7 +1,7 @@
 export default function Portfolio() {
     return (
         <main>
-            <h2 class="orange-background">Portfolio</h2>
+            <h2 className="orange-background">Portfolio</h2>
 
             <iframe title="Harris County Vaccine Hub" src="https://www.youtube.com/embed/hhK7M_CAPAU" width="560" height="315"></iframe>
             <h3>Harris County Vaccine Hub</h3>

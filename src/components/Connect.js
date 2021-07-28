@@ -1,7 +1,7 @@
 export default function Connect() {
     return (
         <main>
-            <h2 class="orange-background">Connect with Me</h2>
+            <h2 className="orange-background">Connect with Me</h2>
             <div>
                 <p>bakerblaire@gmail.com</p>
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/blaire-baker/">LinkedIn</a> <br/>

@@ -19,27 +19,40 @@ h1 {
   font-family: 'Permanent Marker', cursive;
   font-size: 60px;
   background-color: #588b8b;
+  padding-left: 20px;
   /* color: #ffd5c2; */
 }
 
 h2 {
   font-family: 'Permanent Marker', cursive;
+  padding-left: 20px;
+}
+
+p, a { 
+  font-size: 16px;
+  /* padding-left: 20px; */
+}
+
+button {
+  padding: 15px;
 }
 
 button a {
   font-family: 'Permanent Marker', cursive;
 }
 
-p, a { 
-  font-size: 16px;
-}
-
 img {
   width: 500px;
   border: 10px solid #f28f3b;;
   border-radius: 50%;
+  margin-left: 20px;
 }
 
 .orange-background {
   background-color:#f28f3b;
+}
+
+nav {
+  margin-top: 15px;
+  margin-bottom: 10px;
 }
