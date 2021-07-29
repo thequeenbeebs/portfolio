@@ -4,7 +4,7 @@ export default function Resume() {
             <h2 className="orange-background">Resume</h2>
 
             {/* Add way to download PDF */}
-
+            <div class="resume-box">
             <h3>Experience</h3>
 
             <h4>Professional Actor -- 2011 to Present</h4>
@@ -31,7 +31,7 @@ export default function Resume() {
             <h3>Technical Skills</h3>
 
             <p>HTML | CSS | Ruby | Rails | JavaScript | React | Redux | PostgreSQL | Git | Material-UI </p>
-
+            </div>
         </main>
       
     );

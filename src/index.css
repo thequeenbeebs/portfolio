@@ -29,6 +29,10 @@ h2 {
   text-align: center;
 }
 
+p {
+  text-align: justify;
+}
+
 p, a { 
   font-size: 16px;
   /* padding-left: 20px; */
@@ -60,4 +64,13 @@ nav {
 
 .center-text{
   text-align: center;
+}
+
+.text-box {
+  width: 500px;
+  float: right;
+}
+
+.resume-box {
+  width: 75%;
 }
