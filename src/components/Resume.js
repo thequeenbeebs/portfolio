@@ -5,7 +5,7 @@ export default function Resume() {
 
             {/* Add way to download PDF */}
             <div class="resume-box">
-            <h3>Experience</h3>
+            <h3><u>Experience</u></h3>
 
             <h4>Professional Actor -- 2011 to Present</h4>
             <ul>
@@ -21,14 +21,14 @@ export default function Resume() {
                 <li>Constructed and researched an extensive database of schools in the 5 largest school districts in the country, streamlining outreach efforts to potential clients</li>
             </ul>
 
-            <h3>Education</h3>
+            <h3><u>Education</u></h3>
 
             <ul>
                 <li>Flatiron School: Full Stack Web Development, Ruby on Rails, and JavaScript bootcamp</li>
                 <li>University of Arizona: BFA in Musical Theatre (Summa Cum Laude)</li>
             </ul>
 
-            <h3>Technical Skills</h3>
+            <h3><u>Technical Skills</u></h3>
 
             <p>HTML | CSS | Ruby | Rails | JavaScript | React | Redux | PostgreSQL | Git | Material-UI </p>
             </div>
