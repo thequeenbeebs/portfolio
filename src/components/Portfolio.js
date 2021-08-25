@@ -14,7 +14,7 @@ export default function Portfolio() {
                 <li>Joined the front end with a Ruby, Rails, and ActiveRecord back end</li>
                 <li>Authenticated users at login and registration using JWT and Bcrypt</li>
             </ul>
-
+            
             <iframe title="Cher's Closet" src="https://www.youtube.com/embed/ElgmpxjV0B0" width="560" height="315"></iframe>
             <h3><u>Cher's Closet</u></h3>
             <a target="_blank" rel="noreferrer" href="https://github.com/thequeenbeebs/chers-closet">GitHub</a>

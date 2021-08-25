@@ -14,20 +14,20 @@ export default function Resume() {
                 <li>Entertained thousands of audience members at famous theatres including the Pantages in LA, the Kansas City
                     Starlight, and St. Louis’ Fox Theatre (selling out at a capacity of 4,500)</li>
             </ul>
-
+            
             <h4>Administrative Assistant -- Story2 -- 02/17 to 10/17</h4>
             <ul>
                 <li>Coordinated appointments and scheduling for a fast-paced ed-tech startup, increasing productivity for the team and founder</li>
                 <li>Constructed and researched an extensive database of schools in the 5 largest school districts in the country, streamlining outreach efforts to potential clients</li>
             </ul>
-
+            <hr></hr>
             <h3><u>Education</u></h3>
 
             <ul>
                 <li>Flatiron School: Full Stack Web Development, Ruby on Rails, and JavaScript bootcamp</li>
                 <li>University of Arizona: BFA in Musical Theatre (Summa Cum Laude)</li>
             </ul>
-
+            <hr></hr>
             <h3><u>Technical Skills</u></h3>
 
             <p>HTML | CSS | Ruby | Rails | JavaScript | React | Redux | PostgreSQL | Git | Material-UI </p>
