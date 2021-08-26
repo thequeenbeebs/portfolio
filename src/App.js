@@ -15,6 +15,7 @@ import Resume from './components/Resume'
 export default function App() {
   return (
     <Router>
+    <div>
       <h1>Blaire Baker</h1>
       <nav>
         <button>
@@ -33,6 +34,7 @@ export default function App() {
           <Link to="/connect">Connect</Link>
         </button>
       </nav>
+      </div>
 
       <Switch>
         <Route exact path="/">
