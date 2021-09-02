@@ -58,6 +58,8 @@ button a {
 }
 
 img {
+  position: relative;
+  left: 100px;
   width: 500px;
   border: 10px solid #f28f3b;;
   border-radius: 50%;
