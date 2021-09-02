@@ -37,8 +37,10 @@ h2 {
   text-align: justify;
 } */
 
-p, a { 
+p, a, li { 
   font-size: 16px;
+  line-height: 25px;
+  color: white;
   /* padding-left: 20px; */
 }
 
