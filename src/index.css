@@ -22,6 +22,10 @@ h1 {
   background-color: hsl(180, 22%, 45%);
   padding-left: 20px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  position: absolute;
+  top: 0;
+  margin-top: 0;
+  width: 100%;
   /* float: left; */
 }
 
@@ -31,6 +35,7 @@ h2 {
   text-align: center;
   font-size: 52px;
   font-weight: 600;
+  margin-top: 150px;
 }
 
 /* p {
@@ -67,6 +72,7 @@ img {
 }
 
 .orange-background {
+  width: 100%;
   background-color:#f28f3b;
   padding: 10px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
@@ -75,6 +81,9 @@ img {
 nav {
   margin-top: 15px;
   margin-bottom: 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
   /* float: right; */
 }
 
@@ -88,7 +97,7 @@ nav {
   margin-right: 50px;
 }
 
-.resume-box, #portfolio {
+.resume-box, .portfolio-box {
   width: 75%;
   position: relative;
   left: 20px;
