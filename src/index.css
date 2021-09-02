@@ -44,6 +44,10 @@ p, a, li {
   /* padding-left: 20px; */
 }
 
+a:hover {
+  color: black;
+}
+
 button {
   padding: 15px;
 }
