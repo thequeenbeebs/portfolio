@@ -49,22 +49,31 @@ p, a, li {
   /* padding-left: 20px; */
 }
 
+button:hover {
+  border: solid black 3px;
+  color: black;
+}
+
 a:hover {
   color: black;
 }
 
 button {
   padding: 15px;
-  background-color: white;
+  background-color: #5A8C8C;
+  border-radius: 5px;
+  border: solid white 3px;
+  margin: 10px;
 }
 
 button a {
-  /* font-family: 'Permanent Marker', cursive; */
-  color: black;
-  
+  color: white;
   text-transform: uppercase;
+  text-decoration: none;
   font-weight: bold;
 }
+
+
 
 img {
   position: relative;
@@ -88,7 +97,6 @@ nav {
   position: absolute;
   right: 0;
   top: 0;
-  /* float: right; */
 }
 
 .center-text{
