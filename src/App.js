@@ -18,21 +18,17 @@ export default function App() {
     <div>
       <h1>Blaire Baker</h1>
       <nav>
-        <button>
+        
           <Link to="/">Home</Link>
-        </button>
-        <button>
+        
           <Link to="/about">About</Link>
-        </button>
-        <button>
+        
           <Link to="/resume">Resume</Link>
-        </button>
-        <button>
+        
           <Link to="/portfolio">Portfolio</Link>
-        </button>
-        <button>
+        
           <Link to="/connect">Connect</Link>
-        </button>
+       
       </nav>
       </div>
 

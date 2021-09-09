@@ -58,19 +58,20 @@ a:hover {
   color: black;
 }
 
-button {
-  padding: 15px;
-  background-color: #5A8C8C;
-  border-radius: 5px;
-  border: solid white 3px;
-  margin: 10px;
+nav a:hover {
+  color: black;
+  border: solid black 3px;
 }
 
-button a {
+nav a {
+  padding: 15px;
   color: white;
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
+  border-radius: 5px;
+  border: solid white 3px;
+  margin: 10px;
 }
 
 
@@ -96,7 +97,7 @@ nav {
   margin-bottom: 10px;
   position: absolute;
   right: 0;
-  top: 0;
+  top: 15px;
 }
 
 .center-text{
